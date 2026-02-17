@@ -1,0 +1,13 @@
+__pycache__/
+traffic/
+venv/
+env/
+ENV/
+.venv/
+*.pt
+*.onnx
+*.engine
+*.weights
+*.mp4
+.vscode/
+.idea/
